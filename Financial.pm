@@ -2,7 +2,7 @@ package Bundle::Math::Financial;
 use strict;
 use warnings;
 
-$VERSION = '1.00';
+$VERSION = '1.01';
 
 1;
 
@@ -17,6 +17,8 @@ Bundle::Math::Financial - Bundle of modules related to financial mathematics
  perl -MCPAN -e 'install Bundle::Math::Financial'
 
 =head1 CONTENTS
+
+Finance::Calc::Performance
 
 Math::Business::BlackScholes
 
